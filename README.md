@@ -32,7 +32,7 @@ Feel free to check out my projects below:
 📄Reimplementing the [FixMatch](https://github.com/Magnus-github/DeepLearning_FinalProject/tree/main/src) model from the paper [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685).
 
 ## Contact Info
-If you are interested in AI and robotics as I am, let's connect on [LinkedIn](https://www.linkedin.com/in/magnus-ruben-tibbe/) or send me an [email](magnus.tibbe@gmail.com)! 
+If you are interested in AI and robotics as I am, let's connect on [LinkedIn](https://www.linkedin.com/in/magnus-ruben-tibbe/)!
 
 
 
